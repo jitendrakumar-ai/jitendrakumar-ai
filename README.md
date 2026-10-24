@@ -6,7 +6,44 @@
   <br />
 
   `Ecosystem: NexusVibe AI` • `MCP Standard: 2025-03-26` • `Python 3.10+` • `License: MIT`
+</div># Hi there, I'm NexusVibe AI Tech 👋
+<div align="center">
+  <img src="assets/banner.svg" width="100%" alt="NexusVibe AI Banner" />
+
+  <br />
+  <br />
+
+  `Ecosystem: NexusVibe AI Tech` • `MCP Standard: 2025-03-26` • `Python 3.10+` • `License: MIT`
 </div>
+
+<br />
+
+# Hi there, I'm NexusVibe AI Tech 👋
+### Founder & AI Architect @ **NexusVibe AI Tech**
+
+Building Agent-Native Model Context Protocol (MCP) Servers, Autonomous Workflows & Scalable Cloud Systems.
+
+---
+
+## ⚡ NexusVibe AI Tech Open-Source MCP Ecosystem
+
+| MCP Repository | Description | Key Capabilities | Quick Install |
+| :--- | :--- | :--- | :--- |
+| **[`cloud-ops-mcp`](/nexusvibe-ai/cloud-ops-mcp)** | Cloud Infrastructure & Operations Management | AWS/GCP provisioning, log analysis, deployment automation, incident response | `claude mcp add cloud-ops-mcp` |
+| **[`code-context-mcp`](/nexusvibe-ai/code-context-mcp)** | Deep Codebase Context & Semantic Indexing | AST parsing, dependency graph analysis, real-time code search, symbol lookup | `claude mcp add code-context-mcp` |
+| **[`agent-memory-mcp`](/nexusvibe-ai/agent-memory-mcp)** | Persistent Long-term Memory & Knowledge Graph | Entity extraction, graph storage, vector search, multi-session state preservation | `claude mcp add agent-memory-mcp` |
+
+---
+
+## 🏗️ Architectural Topology
+
+```mermaid
+graph TD
+    Client[Client Applications] --> MCP[NexusVibe AI Tech MCP Ecosystem]
+    MCP --> CloudOps[cloud-ops-mcp]
+    MCP --> CodeContext[code-context-mcp]
+    MCP --> AgentMemory[agent-memory-mcp]
+```
 
 <br />
 
