@@ -15,7 +15,7 @@ Building Agent-Native Model Context Protocol (MCP) Servers, Autonomous Workflows
 | **[`cloud-ops-mcp`](/jitendrakumar-ai/cloud-ops-mcp)** | Cloud Infrastructure & Operations Management | AWS/GCP provisioning, log analysis, deployment automation, incident response | `claude mcp add cloud-ops-mcp` |
 | **[`code-context-mcp`](/jitendrakumar-ai/code-context-mcp)** | Deep Codebase Context & Semantic Indexing | AST parsing, dependency graph analysis, real-time code search, symbol lookup | `claude mcp add code-context-mcp` |
 | **[`agent-memory-mcp`](/jitendrakumar-ai/agent-memory-mcp)** | Persistent Long-term Memory & Knowledge Graph | Entity extraction, graph storage, vector search, multi-session state preservation | `claude mcp add agent-memory-mcp` || **`nexus-serena-mcp`** | IDE Toolkit & Live Documentation Engine | Symbol AST lookup, surgical refactoring, docstrings, project onboarding | `claude mcp add nexus-serena-mcp` |
-
+| **[`api-contract-sync-mcp`](/jitendrakumar-ai/api-contract-sync-mcp)** | API Contract Synchronization & Schema Drift Detection | OpenAPI spec sync, contract validation, breaking change alerts, client generation | `claude mcp add api-contract-sync-mcp` |
 
 ---
 
